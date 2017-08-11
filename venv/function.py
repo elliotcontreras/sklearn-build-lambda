@@ -1,3 +1,5 @@
+# sklearn Iris classifier meant as an example to be used for aws lambda
+
 import boto3
 import os
 import ctypes
