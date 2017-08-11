@@ -8,7 +8,8 @@ A function.py file must be included with the rest of the directory in order to b
 
 Thank you to the following authors for the detailed information: Jose Miguel Arieta, Ryan S. Brown
 
-Follow the tutorial on these websites: 
+Follow the tutorial on these websites:
+
 https://datascience.com.co/creating-an-api-using-scikit-learn-aws-lambda-s3-and-amazon-api-gateway-d9d10317e38d 
---
+
 https://serverlesscode.com/post/scikitlearn-with-amazon-linux-container/
